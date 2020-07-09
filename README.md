@@ -10,6 +10,8 @@
 </p>
 
 <details>
-  <summary><b>:rocket: 2020 goal</b></summary>
-  <br>Break more things. :)
+  <summary><b>:rocket: 2020 goals</b></summary>
+    * Build more things
+    * Learn more things
+    * Break more things :)
 </details>
