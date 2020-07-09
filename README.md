@@ -6,7 +6,7 @@
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>Did you find a bug? :worried: 
-    <br>:point_right: Feel free to reach out to me on <a href="https://twitter.com/franciscojarceo">Twitter</a>.
+    <br>:point_right: Feel free to reach out to me on <a href="https://twitter.com/franciscojarceo">Twitter</a> :blush:.
   </samp>
 </p>
 
