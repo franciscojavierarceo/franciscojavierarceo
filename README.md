@@ -4,7 +4,6 @@
     <br>
     <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="240px" align="center">
     I'm Francisco Javier Arceo. I mostly break things.
-    <br>
     <br><br>Did you find a bug? :worried: 
     <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter</a> :blush:.
   </samp>
