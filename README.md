@@ -11,7 +11,9 @@
 
 <details>
   <summary><b>:rocket: 2020 goals</b></summary>
-    * Build more things
-    * Learn more things
-    * Break more things :)
+  <ul>
+    <li>Build more things</li>
+    <li>Learn more things</li>
+    <li>Break more things :)</li>
+  </ul>
 </details>
