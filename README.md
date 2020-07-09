@@ -1,6 +1,6 @@
 <p>
   <samp>
-    ¡Hola! :wave: :wave: :wave:
+    <h1>¡Hola! :wave: :wave: :wave:</h1>
     <br>
     <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="240px" align="center">
     I'm Francisco Javier Arceo. I mostly break things.
