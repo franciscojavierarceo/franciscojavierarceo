@@ -11,7 +11,7 @@
 </p>
 
 <details>
-  <summary><b>:rocket: 2020 goals</b></summary>
+  <summary><b>2020 goals :rocket:</b></summary>
   <ul>
     <li>Learn some things :nerd_face:</li>
     <li>Build some things :blush:</li>
