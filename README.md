@@ -16,6 +16,5 @@
     <li>Learn some things :nerd_face:</li>
     <li>Build some things :blush:</li>
     <li>Break some things :smiling_imp:</li>
-    <li>Fix some things :joy: :)</li>
   </ul>
 </details>
