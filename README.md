@@ -19,3 +19,5 @@
 </details>
 
 Interested in Finance and Technology? Check out what I'm building at <a href="https://www.unidosfin.com/en">Unidos</a>.
+<br>
+Interested in helping millions of people who learn and think differently thrive? Check out what we're building at <a href="https://www.understood.org/">Understood</a>.
