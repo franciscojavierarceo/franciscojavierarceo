@@ -4,8 +4,8 @@
     I'm Francisco Javier Arceo, I mostly break things. :construction_worker:
     <br><br>
     <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="100px" align="center">
-    <br>Did you find a bug? :worried: 
-    <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter.</a> :blush:
+    <br>Find a bug in something I built? :worried: 
+    <br>    Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter.</a> :blush:
   </samp>
 </p>
 
