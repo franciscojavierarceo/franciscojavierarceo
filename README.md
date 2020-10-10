@@ -5,7 +5,7 @@
     <br><br>
     <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="100px" align="center">
     <br>Find a bug in something I built? :worried: 
-    <br>    Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter.</a> :blush:
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter.</a> :blush:
   </samp>
 </p>
 
