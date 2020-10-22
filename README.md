@@ -11,6 +11,7 @@
 
 <details>
   <summary><b>2020 goals :rocket:</b></summary>
+  <br>
   <ul>
     <li>Learn some things :nerd_face:</li>
     <li>Build some things :blush:</li>
