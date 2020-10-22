@@ -1,7 +1,7 @@
 <p>
   <samp>
     <h1>¡Hola! :wave: :wave: :wave:</h1>
-    <p>I'm Francisco Javier Arceo, I mostly break things. :construction_worker: <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="20px"></p>
+    <p>I'm Francisco Javier Arceo, I mostly break things.<img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px">:construction_worker:</p>
     <br>Did you find a bug in something I built? :worried: 
     <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
   </samp>
