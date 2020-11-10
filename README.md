@@ -1,8 +1,8 @@
 <p>
   <samp>
-    <h1>¡Hola! :wave:</h1>
-    <p>I'm Francisco Javier Arceo, I love to build things.:construction_worker: <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px"></p>
-    <br>Did you find a bug in something I built? :worried: 
+    <h1>¡Hola! :wave: <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px"></p></h1>
+    <p>I'm Francisco Javier Arceo, I love to build things.:construction_worker:
+    Did you find a bug in something I built? :worried: 
     <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
   </samp>
 </p>
