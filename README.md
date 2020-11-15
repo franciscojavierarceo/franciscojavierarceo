@@ -2,8 +2,6 @@
   <samp>
     <h1>¡Hola! :wave: <!--- <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px">---></h1> 
     <p>I'm Francisco Javier Arceo, I love code and I love to build things.:construction_worker:</p>
-    Did you find a bug in something I built? :worried: 
-    <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
   </samp>
 </p>
 
@@ -20,3 +18,7 @@
 Interested in Finance and Technology? Check out what I'm building at <a href="https://www.unidosfin.com/en">Unidos</a>.
 <br>
 Interested in helping millions of people who learn and think differently thrive? Check out what we're building at <a href="https://www.understood.org/">Understood</a>.
+
+<br>
+Did you find a bug in something I built? :worried: 
+<br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
