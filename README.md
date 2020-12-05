@@ -2,7 +2,7 @@
   <samp>
     <h1>¡Hola! :wave: <!--- <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px">---></h1> 
     <p>I'm Francisco Javier Arceo.</p>
-    <p>I love code and I love to build things.:construction_worker:</p>
+    <p>I love code (Python in particular) and I love to build things.:construction_worker:</p>
   </samp>
 </p>
 
@@ -22,3 +22,14 @@ Interested in helping millions of people who learn and think differently thrive?
 <br>
 Did you find a bug in something I built? :worried: 
 <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
+
+
+<details>
+  <summary><b>Things I like</b></summary>
+  <ul>
+    <li>Python</li>
+    <li>Machine Learning (Pandas, Sklearn, PyTorch)</li>
+    <li>Web Development (Django)</li>
+    <li>Google Cloud Platform (GCP)</li>
+    <li>Heroku</li>
+</details>
