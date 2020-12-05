@@ -23,7 +23,7 @@ Interested in helping millions of people who learn and think differently thrive?
 Did you find a bug in something I built? :worried: 
 <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
 
-<br><br>
+<br>
 <details>
   <summary><b>Things I like</b></summary>
   <ul>
