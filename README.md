@@ -2,7 +2,7 @@
   <samp>
     <h1>¡Hola! :wave: <!--- <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px">---></h1> 
     <p>I'm Francisco.</p>
-    <p>I love code (Python in particular) and I love to build things.:construction_worker:</p>
+    <p>I love code and I love to build things.:construction_worker:</p>
   </samp>
 </p>
 
