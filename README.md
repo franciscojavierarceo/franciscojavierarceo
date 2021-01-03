@@ -35,5 +35,6 @@ Did you find a bug in something I built? :worried:
 ## GitHub Stats
 
 ![Francisco Javier Arceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojavierarceo&show_icons=&private_count=true)
+<br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojavierarceo&layout=compact&langs_count=10)]()
 
