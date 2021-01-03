@@ -19,7 +19,7 @@ Interested in Finance and Technology? Check out what I'm building at <a href="ht
 Interested in helping millions of people who learn and think differently thrive? Check out what we're building at <a href="https://www.understood.org/">Understood</a>.
 
 <p>Did you find a bug in something I built? :worried:</p>
-<br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
+<p>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:</p>
 <br><br>
 <details>
   <summary><b>Things I like</b></summary>
