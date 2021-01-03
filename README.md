@@ -18,8 +18,7 @@
 Interested in Finance and Technology? Check out what I'm building at <a href="https://www.Unidosfin.com/en/">Unidos</a>.<br>
 Interested in helping millions of people who learn and think differently thrive? Check out what we're building at <a href="https://www.understood.org/">Understood</a>.
 
-<br>
-Did you find a bug in something I built? :worried: 
+<p>Did you find a bug in something I built? :worried:</p>
 <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
 <br><br>
 <details>
