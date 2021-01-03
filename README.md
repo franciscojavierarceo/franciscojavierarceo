@@ -15,11 +15,10 @@
   </ul>
 </details>
 
-<br>
 Interested in Finance and Technology? Check out what I'm building at <a href="https://www.Unidosfin.com/en/">Unidos</a>.<br>
 Interested in helping millions of people who learn and think differently thrive? Check out what we're building at <a href="https://www.understood.org/">Understood</a>.
 
-<br><br>
+<br>
 Did you find a bug in something I built? :worried: 
 <br>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:
 <br><br>
@@ -32,3 +31,9 @@ Did you find a bug in something I built? :worried:
     <li>Google Cloud Platform (GCP)</li>
     <li>Heroku</li>
 </details>
+
+## GitHub Stats
+
+![Francisco Javier Arceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojavierarceo&show_icons=&private_count=true)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojavierarceo&layout=compact)]()
+
