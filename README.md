@@ -20,15 +20,13 @@ Interested in helping millions of people who learn and think differently thrive?
 
 <p>Did you find a bug in something I built? :worried:</p>
 <p>Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:</p>
-<br><br>
 <details>
-  <summary><b>Things I like</b></summary>
+  <summary><b>Here are some of things you'll find in my repositories</b></summary>
   <ul>
     <li>Python</li>
     <li>Machine Learning (Pandas, Sklearn, PyTorch)</li>
     <li>Web Development (Django)</li>
-    <li>Google Cloud Platform (GCP)</li>
-    <li>Heroku</li>
+    <li>APIs</li>
 </details>
 
 ## GitHub Stats
