@@ -31,7 +31,7 @@ Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">T
 
 ## GitHub Stats
 
-![Francisco Javier Arceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojavierarceo&show_icons=&private_count=true)
+![Francisco Javier Arceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojavierarceo&show_icons=&private_count=true&card_width=447)
 <br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojavierarceo&layout=compact&langs_count=10&card_width=447)]()
 
