@@ -35,3 +35,5 @@ Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">T
 <br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojavierarceo&layout=compact&langs_count=10&card_width=447)]()
 
+
+Like these cards? <a href="https://github.com/anuraghazra/github-readme-stats">Here's</a> how to add them to your github.
