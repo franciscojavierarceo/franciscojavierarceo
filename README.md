@@ -34,8 +34,5 @@ Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">T
 [![Francisco Javier Arceo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscojavierarceo&show_icons=true&private_count=true&card_width=447)]
 <br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojavierarceo&layout=compact&langs_count=10&card_width=447&hide=OpenEdge%20ABL,Jupyter%20Notebook)]()
-<br>
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=franciscojavierarceo)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Like these cards? <a href="https://github.com/anuraghazra/github-readme-stats">Here's</a> how to add them to your github.
