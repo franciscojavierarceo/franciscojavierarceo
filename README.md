@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary><b>My 2021 Goals :rocket:</b></summary>
+  <summary><b>My 2022 Goals :rocket:</b></summary>
   <br>
   <ul>
     <li>Learn some things :nerd_face:</li>
