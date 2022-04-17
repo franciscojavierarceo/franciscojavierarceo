@@ -15,7 +15,6 @@
   </ul>
 </details>
 
-Interested in rocketships :rocket:? Check out what I'm building at <a href="http://fast.co">Fast</a>.<br>
 Interested in Finance and Technology? Check out what I'm building at <a href="https://www.Unidosfin.com/en/">Unidos</a>.<br>
 
 <p>Did you find a bug in something I built? :worried: <br>
