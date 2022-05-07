@@ -15,8 +15,6 @@
   </ul>
 </details>
 
-Interested in Finance and Technology? Check out what I'm building at <a href="https://www.Unidosfin.com/en/">Unidos</a>.<br>
-
 <p>Did you find a bug in something I built? :worried: <br>
 Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:</p>
 <details>
