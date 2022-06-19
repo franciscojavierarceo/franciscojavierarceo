@@ -2,6 +2,7 @@
   <samp>
     <h1>Hi there! :wave: <!--- <img src="https://cultofthepartyparrot.com/parrots/fiestaparrot.gif" width="30px">---></h1> 
     <p>I'm Francisco. I love code and I love to build things.:construction_worker:</p>
+    <p>I'm an Engineering Manager at <a href="https://www.affirm.com/">Affirm</a> where I lead the Machine Learning and Data Infrastructure team.</p>
   </samp>
 </p>
 
