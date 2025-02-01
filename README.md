@@ -11,7 +11,7 @@
 </p>
 
 <details>
-  <summary><b>My 2024 Goals :rocket:</b></summary>
+  <summary><b>My 2025 Goals :rocket:</b></summary>
   <br>
   <ul>
     <li>Learn some things :nerd_face:</li>
@@ -26,7 +26,7 @@ Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">T
   <summary><b>Here are some of things you'll find in my repositories</b></summary>
   <ul>
     <li>Python</li>
-    <li>Machine Learning (Pandas, Sklearn, PyTorch)</li>
+    <li>AI/ML</li>
     <li>Web Development (Django)</li>
     <li>APIs</li>
 </details>
