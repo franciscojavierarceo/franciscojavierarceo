@@ -9,24 +9,8 @@
     <p>I am also on the Steering Commitee for <a href="https://www.kubeflow.org">Kubeflow</a>—the open source AI platform.</p>
   </samp>
 </p>
-
-<details>
-  <summary><b>My 2025 Goals :rocket:</b></summary>
-  <br>
-  <ul>
-    <li>Learn some things :nerd_face:</li>
-    <li>Build some things :blush:</li>
-    <li>Break some things :smiling_imp:</li>
-  </ul>
-</details>
-
+    
 <p>Did you find a bug in something I built? :worried: <br>
-Feel free to tell me about it on <a href="https://twitter.com/franciscojarceo">Twitter!</a> :blush:</p>
-<details>
-  <summary><b>Here are some of things you'll find in my repositories</b></summary>
-  <ul>
-    <li>Python</li>
-    <li>AI/ML</li>
-    <li>Web Development (Django)</li>
-    <li>APIs</li>
-</details>
+Feel free to tell me about it on <a href="https://x.com/franciscojarceo">X/Twitter!</a> :blush:</p>
+
+![Screenshot 2025-03-31 at 1 39 31 PM](https://github.com/user-attachments/assets/76393bb0-86fb-49f6-b0c6-a65ec1f39a35)
