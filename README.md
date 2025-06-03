@@ -4,7 +4,7 @@
     <p>I'm Francisco. I love code and I love to build things.</p>
     <p>I'm a Senior Principal Software Engineer at <a href="https://www.redhat.com/">Red Hat</a> 
       where I work on distributed model training, data science pipelines, and feature serving 
-      using Kubeflow, Kubernetes, and Feast.</p>
+      using Kubeflow, Kubernetes, Feast, and RAG.</p>
     <p>I am also a maintainer for <a href="https://www.feast.dev">Feast</a>—the open source Feature Store.</p>
     <p>I am also on the Steering Commitee for <a href="https://www.kubeflow.org">Kubeflow</a>—the open source AI platform.</p>
   </samp>
