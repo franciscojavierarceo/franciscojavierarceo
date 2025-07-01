@@ -13,4 +13,6 @@
 <p>Did you find a bug in something I built? :worried: <br>
 Feel free to tell me about it on <a href="https://x.com/franciscojarceo">X/Twitter!</a> :blush:</p>
 
-![Screenshot 2025-03-31 at 1 39 31 PM](https://github.com/user-attachments/assets/76393bb0-86fb-49f6-b0c6-a65ec1f39a35)
+![](https://github.com/user-attachments/assets/76393bb0-86fb-49f6-b0c6-a65ec1f39a35J) 
+
+<img src="https://github.com/user-attachments/assets/76393bb0-86fb-49f6-b0c6-a65ec1f39a35J" alt="Alt Text" width="300" height="200">
