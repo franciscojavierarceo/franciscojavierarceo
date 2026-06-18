@@ -14,3 +14,5 @@
 Feel free to tell me about it on <a href="https://x.com/franciscojarceo">X/Twitter!</a> :blush:</p>
 
 <img src="https://github.com/user-attachments/assets/76393bb0-86fb-49f6-b0c6-a65ec1f39a35" alt="Alt Text" height="500">
+
+![](./profile-3d-contrib/profile-gitblock.svg)
