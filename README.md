@@ -14,3 +14,13 @@
 Feel free to tell me about it on <a href="https://x.com/franciscojarceo">X/Twitter!</a> :blush:</p>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+<div align="center">
+  <a href="https://commit-history.com/franciscojavierarceo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/franciscojavierarceo?theme=dark" />
+      <img alt="franciscojavierarceo's commit history" src="https://commit-history.com/embed/franciscojavierarceo" />
+    </picture>
+  </a>
+</div>
